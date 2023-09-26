@@ -1,0 +1,2 @@
+name: Reuseable workflow
+on: [workflow_call]
